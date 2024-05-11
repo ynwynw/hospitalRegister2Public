@@ -1,7 +1,0 @@
-{
-  "defaultTitle": "就诊卡队列",
-  "titleBarColor": "#7EC0EE",
-  "usingComponents": {
-    "no-data-page": "/component/noDataPage"
-  }
-}
